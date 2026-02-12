@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lNDG+QKq7Rg=",
+  "dgSpecHash": "TVDey8WgjPA=",
   "success": true,
   "projectFilePath": "D:\\Itransition\\MusicApp1\\MusicApp1\\MusicApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Shohruz\\.nuget\\packages\\bogus\\35.6.5\\bogus.35.6.5.nupkg.sha512"
+  ],
   "logs": []
 }
